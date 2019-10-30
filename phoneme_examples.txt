@@ -1,5 +1,5 @@
 a адам a d a m
-b база b a z a
+b бала b a l a
 bj беру bj e r u
 c цент c e n t
 ch матч m a t ch
@@ -14,33 +14,33 @@ gj егер e gj e r
 h мұхит m uy h i t
 i биік bj i ie k
 ie білу bj ie l u
-j айту a j t u
-k банк b a n k
+j жүйе zh ue j e
+k ерік e rj ie k
 kh анық a n y kh
 kj ескі e s kj ie
-l алма a l m a
+l алыс a l y s
 lj үлес ue lj e s
-m атом a t o m
+m алма a l m a
 mj кеме kj e mj e
-n ойын o j y n
+n банк b a n k
 ng жаңа zh a ng a
 nj дене dj e nj e
-o болу b o l u
+o атом a t o m
 p апта a p t a
 pj капитал k a pj i t a l
 r арал a r a l
-rj ерік e rj ie k
-s алыс a l y s
+rj тері tj e rj ie
+s басу b a s u
 sh ашық a sh y kh
 sj есік e sj ie k
-t алты a l t y
+t айту a j t u
 tj ерте e r tj e
 u ауыз a u y z
 ue жүзу zh ue z u
 uo бөлу bj uo l u
 uy бұлт b uy l t
 v символы sj i m v o l y
-y ауыл a u y l
-z жазу zh a z u
-zh жеке zh e kj e
+y алты a l t y
+z база b a z a
+zh жазу zh a z u
 zj кезең kj e zj e ng
